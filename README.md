@@ -24,9 +24,8 @@
   N/A
   
   ## Link to Operational Video
-  ```
-  [Link to screenshot videdo](https://drive.google.com/file/d/1YtPbIq679XeaWsC_eUkSF7FQCIYO35Yr/view)
-  ```
+
+  > [Link to screenshot video](https://drive.google.com/file/d/1YtPbIq679XeaWsC_eUkSF7FQCIYO35Yr/view)
   
   ## Tests:
   To run tests, run the following command: 
