@@ -1,6 +1,6 @@
 
   # ReadMe.md File Generator
-  [![License: ISC](https://img.shields.io/badge/license-none-lightgrey)](https://opensource.org/licenses/None)
+  [![License: ISC](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description:
   Create the files and coding to prompt a user to auto generate a ReadMe.md for their project.
@@ -22,6 +22,11 @@
 
   ## Contributing Information: 
   N/A
+  
+  ```
+  ## Link to Operational Video
+  https://drive.google.com/file/d/1YtPbIq679XeaWsC_eUkSF7FQCIYO35Yr/view
+  ```
   
   ## Tests:
   To run tests, run the following command: 
