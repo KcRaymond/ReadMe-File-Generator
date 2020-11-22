@@ -8,8 +8,8 @@
 
   > ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage information)
-  * [Contributing](#contributing information)
+  * [Usage Information](#usage information)
+  * [Contributing Information](#contributing information)
   * [Tests](#tests)
   * [Questions](#questions)
   
